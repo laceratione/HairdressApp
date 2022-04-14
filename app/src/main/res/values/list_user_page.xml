@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_user_page">
+        <item>Сделать заявку</item>
+        <item>Мои заявки</item>
+        <item>Выйти</item>
+    </string-array>
+</resources>

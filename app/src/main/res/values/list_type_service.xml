@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_service">
+        <item>haircut</item>
+        <item>manicure</item>
+        <item>solarium</item>
+    </string-array>
+</resources>
